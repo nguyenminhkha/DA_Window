@@ -1,0 +1,64 @@
+E:\Lập trình Windown\Projects\QLi\QLi\bin\Debug\QLi.exe.config
+E:\Lập trình Windown\Projects\QLi\QLi\bin\Debug\QLi.exe
+E:\Lập trình Windown\Projects\QLi\QLi\bin\Debug\QLi.pdb
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.csprojResolveAssemblyReference.cache
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.Properties.Resources.resources
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.csproj.GenerateResource.Cache
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.exe
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.pdb
+E:\Lập trình Windown\Projects\QLi\QLi\bin\Debug\pa-Guru\QLi.resources.dll
+E:\Lập trình Windown\Projects\QLi\QLi\bin\Debug\vi-VN\QLi.resources.dll
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\pa-Guru\QLi.resources.dll
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\vi-VN\QLi.resources.dll
+E:\Lập trình Windown\Projects\QLi\QLi\bin\Debug\ca-ES-valencia\QLi.resources.dll
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\ca-ES-valencia\QLi.resources.dll
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.FormNV.resources
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.FormThuKho.resources
+E:\Lap trinh Windown\Projects\QLi\QLi\bin\Debug\QLi.exe.config
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.exe
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.pdb
+E:\Lap trinh Windown\Projects\QLi\QLi\bin\Debug\QLi.exe
+E:\Lap trinh Windown\Projects\QLi\QLi\bin\Debug\QLi.pdb
+E:\Lap trinh Windown\Projects\QLi\QLi\bin\Debug\ca-ES-valencia\QLi.resources.dll
+E:\Lap trinh Windown\Projects\QLi\QLi\bin\Debug\pa-Guru\QLi.resources.dll
+E:\Lap trinh Windown\Projects\QLi\QLi\bin\Debug\vi-VN\QLi.resources.dll
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.csprojResolveAssemblyReference.cache
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.Form1.resources
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.Form2.resources
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.Form3.resources
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.Form4.resources
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.Form5.resources
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.Form6.resources
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.Form7.resources
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.Form8.resources
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.FormNV.resources
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.FormThuKho.resources
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.Properties.Resources.resources
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.Form1.ca-ES-valencia.resources
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.Form1.pa-Guru.resources
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.Form1.vi-VN.resources
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\QLi.csproj.GenerateResource.Cache
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\ca-ES-valencia\QLi.resources.dll
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\pa-Guru\QLi.resources.dll
+E:\Lap trinh Windown\Projects\QLi\QLi\obj\Debug\vi-VN\QLi.resources.dll
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.FormAdmin.resources
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.FormBanHang.resources
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.FormTaiKhoan.resources
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.FormKhuyenMai.resources
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.FormThongTinNV.resources
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.FormDoanhThu.resources
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.FormTaiNguyenSach.resources
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.FormLogin.resources
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.FormLogin.ca-ES-valencia.resources
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.FormLogin.pa-Guru.resources
+E:\Lập trình Windown\Projects\QLi\QLi\obj\Debug\QLi.FormLogin.vi-VN.resources
+E:\Lập trình Windown\Đồ án\QLi\QLi\bin\Debug\QLi.exe.config
+E:\Lập trình Windown\Đồ án\QLi\QLi\obj\Debug\QLi.exe
+E:\Lập trình Windown\Đồ án\QLi\QLi\obj\Debug\QLi.pdb
+E:\Lập trình Windown\Đồ án\QLi\QLi\bin\Debug\QLi.exe
+E:\Lập trình Windown\Đồ án\QLi\QLi\bin\Debug\QLi.pdb
+E:\Lập trình Windown\Đồ án\QLi\QLi\obj\Debug\QLi.csprojResolveAssemblyReference.cache
+E:\Lập trình Windown\Đồ án\QLi\QLi\obj\Debug\QLi.FormAdmin.resources
+E:\Lập trình Windown\Đồ án\QLi\QLi\obj\Debug\QLi.Properties.Resources.resources
+E:\Lập trình Windown\Đồ án\QLi\QLi\obj\Debug\QLi.csproj.GenerateResource.Cache
+E:\Lập trình Windown\Đồ án\QLi\QLi\obj\Debug\QLi.FormDangNhap.resources

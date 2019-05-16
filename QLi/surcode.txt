@@ -1,0 +1,1 @@
+Data Source=N-M-K;Initial Catalog=QLNS;Integrated Security=True
